@@ -8,6 +8,7 @@ Why Is This Important?
 Cyber Attacks Are Increasing – Organizations need automated intrusion detection.
 Traditional Security Systems Are Limited – They can't process large data in real-time.
 Big Data & AI Improve Detection – Apache Spark + Machine Learning help analyze huge datasets efficiently.
+
 1. Technologies Used in This Project
 The project uses big data, machine learning, and deep learning for intrusion detection:
 
